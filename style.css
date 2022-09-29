@@ -1,3 +1,16 @@
-strong,strong{
-    padding: 70px;
+.left {
+    position: absolute;
+    left: 5px;
+    width: 300px;
+    
+}
+.center{
+    position: absolute;
+    left:400px;
+    width: 300px;
+}
+.h3{
+    font-size: 30px;
+    font-weight: bold;
+
 }
